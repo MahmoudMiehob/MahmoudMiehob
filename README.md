@@ -12,5 +12,3 @@
                       [linkedIn-@mahmoudmiehob](https://www.linkedin.com/in/mahmoud-miehob-937064187)
 - 📄 Know about my experiences https://www.linkedin.com/in/mahmoud-miehob-937064187
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudMiehob&theme=radical)
