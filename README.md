@@ -16,6 +16,9 @@
 - 📄 Know about my experiences https://www.linkedin.com/in/mahmoud-miehob-937064187
 
 
+[![mahmoud github stats](https://github-readme-stats.vercel.app/api?username=MahmoudMiehob)](https://github.com/MahmoudMiehob/github-readme-stats)
+
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
