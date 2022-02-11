@@ -29,6 +29,12 @@
 
 
 
+## Connect with me:
+<p align="left">
+<a href = "https://www.linkedin.com/in/mahmoud-miehob-937064187"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/mahmoudmiyhob/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
+
 ## 📊 My Github Stats
 
 [![mahmoud github stats](https://github-readme-stats.vercel.app/api?username=MahmoudMiehob)](https://github.com/MahmoudMiehob/github-readme-stats)
