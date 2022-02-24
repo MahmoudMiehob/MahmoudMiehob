@@ -43,5 +43,5 @@
     <img src="https://komarev.com/ghpvc/?username=MahmoudMiehob">
 </a>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmoudmiehob&label=Profile%20views&color=blueviolet&style=plastic" alt="views" /> </p>
+<a align="center"> <img src="https://komarev.com/ghpvc/?username=mahmoudmiehob&label=Profile%20views&color=blueviolet&style=plastic" alt="views" /> </a>
 
