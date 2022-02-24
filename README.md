@@ -43,3 +43,5 @@
     <img src="https://komarev.com/ghpvc/?username=MahmoudMiehob">
 </a>
 <a href="https://github.com/MahmoudMiehob?tab=followers"><img src="https://img.shields.io/github/followers/MahmoudMiehob?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmoudmiehob&label=Profile%20views&color=blueviolet&style=plastic" alt="views" /> </p>
