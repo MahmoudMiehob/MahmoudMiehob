@@ -39,9 +39,6 @@
 [![mahmoud github stats](https://github-readme-stats.vercel.app/api?username=MahmoudMiehob)](https://github.com/MahmoudMiehob/github-readme-stats)
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=MahmoudMiehob">
-</a>
 
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudmiehob&label=Profile%20views&color=blueviolet&style=plastic" alt="views" /> </a>
 
