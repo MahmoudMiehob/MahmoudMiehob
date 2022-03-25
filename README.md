@@ -35,7 +35,7 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/mahmoud-miehob-937064187"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/mahmoudmiyhob/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100010194910703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoudmiehob"  /></a>
+  <a href="https://www.facebook.com/profile.php?id=100010194910703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoudmiehob" width="20px" height="20px" /></a>
 </p>
 
 ## 📊 My Github Stats
