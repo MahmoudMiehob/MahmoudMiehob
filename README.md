@@ -13,7 +13,7 @@
 -  How to reach me: [Facebook-@mahmoudmiehob](https://www.facebook.com/profile.php?id=100010194910703)
                       [Email-@mahmoudmiehob](mahmoudmiehob@gmail.com)
                       [linkedIn-@mahmoudmiehob](https://www.linkedin.com/in/mahmoud-miehob-937064187)
-- 📄 Know about my experiences https://www.linkedin.com/in/mahmoud-miehob-937064187
+-  Know about my experiences https://www.linkedin.com/in/mahmoud-miehob-937064187
 
 
 ## 🚀 Languages and Tools:
