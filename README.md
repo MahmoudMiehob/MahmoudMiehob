@@ -73,7 +73,7 @@
   </a> 
   &emsp;
   <a> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black" height="20px">
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black" height="27px">
    </a>
    &emsp;
    <a href="https://www.python.org" target="_blank">
