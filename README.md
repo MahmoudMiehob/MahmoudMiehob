@@ -55,10 +55,6 @@
 
 
 ## Connect with me:
-<p align="left">
-<a href = "https://www.linkedin.com/in/mahmoud-miehob-937064187"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/mahmoudmiyhob/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
 
 <p>
   <a href="https://www.linkedin.com/in/mahmoud-miehob-937064187"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
