@@ -61,8 +61,8 @@
 </p>
 
 <p>
-  <a href="[https://www.linkedin.com/in/ahmednageebmahmoud/](https://www.linkedin.com/in/mahmoud-miehob-937064187)"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-   <a href="[https://www.facebook.com/AhmedNageebMahmoud/](https://www.facebook.com/profile.php?id=100010194910703)"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
+  <a href="https://www.linkedin.com/in/mahmoud-miehob-937064187"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+   <a href="https://www.facebook.com/profile.php?id=100010194910703"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
    <a href="mailto:mahmoudmiehob@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
   <a href="https://www.youtube.com/channel/UCuGcIO6rrQkwZr4ex5oaB3w"><img src="https://img.shields.io/badge/youtube-e00101.svg?style=for-the-badge&logo=youtube&logoColor=ffffff"/></a>
 
