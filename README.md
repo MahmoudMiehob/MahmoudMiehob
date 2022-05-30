@@ -17,9 +17,6 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<hr>
-
-
 ----
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
@@ -30,6 +27,8 @@
 
 <br/>
 
+
+----
 
 -  I’m currently working on freelancer job
 -  I’m currently learning Everything related with software engineering ..
