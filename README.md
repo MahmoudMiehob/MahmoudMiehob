@@ -60,6 +60,15 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 
+
+##### 💪 Frameworks and Libraries
+
+<p>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-2c292d?style=for-the-badge&logo=bootstrap&logoColor=ffffff"></a>
+    <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-2c292d?style=for-the-badge&logo=laravel&logoColor=ffffff"></a>
+
+</p>
+
 ## 💪 Software and Tools
 
 <p>
