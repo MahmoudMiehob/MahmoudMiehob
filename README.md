@@ -38,6 +38,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmoudmiehob&theme=solarized_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmoudmiehob&theme=solarized_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmoudmiehob&theme=solarized_dark&utcOffset=8)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahmoudmiehob&theme=dark)](https://git.io/streak-stats)
 
 
 
