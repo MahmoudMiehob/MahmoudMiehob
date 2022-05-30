@@ -20,6 +20,17 @@
 <hr>
 
 
+----
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/mahmoudmiehob"><img alt="mahmoud's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahmoudmiehob&custom_title=mahmoudmiehob's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+
+<br/>
+
+
 -  I’m currently working on freelancer job
 -  I’m currently learning Everything related with software engineering ..
 -  All of my projects are available at https://github.com/MahmoudMiehob
