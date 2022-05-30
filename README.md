@@ -65,7 +65,6 @@
 ## 📊 My Github Stats
 
 [![mahmoud github stats](https://github-readme-stats.vercel.app/api?username=MahmoudMiehob&theme=dark)](https://github.com/MahmoudMiehob/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahmoudmiehob&theme=dark)](https://git.io/streak-stats)
 
 ## ❤ Views and Followers
 
