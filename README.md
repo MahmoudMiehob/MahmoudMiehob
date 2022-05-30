@@ -6,7 +6,8 @@
 <br/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&center=true&lines=Software+Engineer;laravel+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=2500&lines=Software+Engineer;laravel+developer)](https://git.io/typing-svg)
+
 
 </br> 
 
