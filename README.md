@@ -6,7 +6,7 @@
 <br/>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=mahmoudmiehob&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
+	<img src="https://komarev.com/ghpvc/?username=mahmoudmiehob&label=Profile%20views&color=0e75b6&style=plastic" alt="mahmoudmiehob" /> 
 	<a href = "https://commits.top/syria.html" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="mahmoudmiehob" target="_blank"/> 
 	</a>
@@ -92,7 +92,7 @@
 </p>
 
 
-## Connect with me:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me:
 
 <p>
   <a href="https://www.linkedin.com/in/mahmoud-miehob-937064187"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
