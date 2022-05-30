@@ -99,7 +99,7 @@
 
 ## 📊 My Github Stats
 
-[![mahmoud github stats](https://github-readme-stats.vercel.app/api?username=MahmoudMiehob&theme=dark)](https://github.com/MahmoudMiehob/github-readme-stats)
+[![mahmoud github stats](https://github-readme-stats.vercel.app/api?username=MahmoudMiehob&theme=algolia)](https://github.com/MahmoudMiehob/github-readme-stats)
 
 ## ❤ Views and Followers
 
