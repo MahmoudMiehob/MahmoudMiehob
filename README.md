@@ -37,6 +37,13 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmoudmiehob&theme=solarized_dark&utcOffset=8)
 
 
+##### 💪 Databases and Cloud Hosting
+
+<p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-2c292d.svg?style=for-the-badge&logo=github&logoColor=ffffff"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-2c292d.svg?style=for-the-badge&logo=heroku&logoColor=ffffff"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-2c292d?style=for-the-badge&logo=mysql&logoColor=ffffff"></a>
+</p>
 
 
 ## 🚀 Languages and Tools:
