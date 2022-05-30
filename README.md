@@ -5,13 +5,9 @@
  
 ----
 
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=mahmoudmiehob&label=Profile%20views&color=0e75b6&style=plastic" alt="mahmoudmiehob" /> 
-</p>
-
-
+<a align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=2500&lines=Software+Engineer;laravel+developer;fullstack+developer)](https://git.io/typing-svg)
+	</a>
 
 </br> 
 
