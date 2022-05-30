@@ -80,8 +80,6 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white" height="24px">
   </a>
 
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white" height="24px"></a>
-  &emsp;
 	
 </p>
 
