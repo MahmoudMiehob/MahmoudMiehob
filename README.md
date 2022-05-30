@@ -60,6 +60,14 @@
 <a href = "https://www.instagram.com/mahmoudmiyhob/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
+<p>
+  <a href="https://www.linkedin.com/in/ahmednageebmahmoud/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+   <a href="https://www.facebook.com/AhmedNageebMahmoud/"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
+   <a href="mailto:ahmed.nageeb.mahmoud.hssan@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
+  <a href="https://www.youtube.com/c/AhmedNageebMahmoud1"><img src="https://img.shields.io/badge/youtube-e00101.svg?style=for-the-badge&logo=youtube&logoColor=ffffff"/></a>
+  <a href="https://www.tiktok.com/@ahmednageebmahmoud"><img src="https://img.shields.io/badge/tiktok-000.svg?style=for-the-badge&logo=tiktok&logoColor=ffffff"/></a>
+</p>
+
 
 
 ## 📊 My Github Stats
