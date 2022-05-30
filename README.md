@@ -6,13 +6,14 @@
 <br/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=2500&lines=Software+Engineer;laravel+developer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=2500&lines=Software+Engineer;laravel+developer;fullstack+developer)](https://git.io/typing-svg)
 
 </br> 
 
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<hr>
 
 
 -  I’m currently working on freelancer job
@@ -24,6 +25,17 @@
                          &nbsp; &nbsp; * [Email-@mahmoudmiehob](mahmoudmiehob@gmail.com) <br>
                          &nbsp; &nbsp; * [linkedIn-@mahmoudmiehob](https://www.linkedin.com/in/mahmoud-miehob-937064187)
 -  Know about my experiences : https://www.linkedin.com/in/mahmoud-miehob-937064187
+
+
+<hr>
+<h2>  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> Github Stats </h2>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmoudmiehob&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmoudmiehob&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmoudmiehob&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmoudmiehob&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmoudmiehob&theme=solarized_dark&utcOffset=8)
+
 
 
 ## 🚀 Languages and Tools:
