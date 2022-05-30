@@ -86,7 +86,7 @@
 ## 💪 Frameworks and Libraries
 
 <p>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-2c292d?style=for-the-badge&logo=bootstrap&logoColor=ffffff" height="24px"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-2c292d?logo=bootstrap&logoColor=ffffff" height="24px"></a>
     <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-2c292d?style=for-the-badge&logo=laravel&logoColor=ffffff" height="24px"></a>
 
 </p>
