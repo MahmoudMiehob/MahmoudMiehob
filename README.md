@@ -22,7 +22,11 @@
 ```php
 <?php
 
-echo "mahmoud miehob"
+public function getName(name) {
+return name ;
+}
+
+getName("mahmoud miehob");
 
 ?>
 
