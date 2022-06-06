@@ -17,6 +17,8 @@
   
   <a href="#"><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220px" alt="giphy"></a>
 
+
+</br>
 ----
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
