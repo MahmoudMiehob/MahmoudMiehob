@@ -13,9 +13,8 @@
 </br> 
 
 
-<a href="#"><img align='left' width="220px" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-  
-  <a href="#"><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220px" alt="giphy"></a>
+<a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 
 
 </br>
