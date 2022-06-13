@@ -22,7 +22,8 @@
 ```php
 <?php
 
-public function getName($name , $age) {
+public function getName($name , $age)
+{
 echo "my name is " . $name . " and my age is " . $ago ;
 }
 
