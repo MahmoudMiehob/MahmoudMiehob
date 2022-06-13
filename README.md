@@ -204,5 +204,6 @@ class About extends Me
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudmiehob&label=Profile%20views&color=blueviolet&style=plastic" alt="views" /> </a>
 
 ## Just a Snake 🐍 Eating away my Contributions...😭
+![snake gif](https://github.com/mahmoudmiehob/mahmoudmiehob/blob/output/github-contribution-grid-snake.gif)
 
 
