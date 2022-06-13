@@ -63,7 +63,7 @@ class About extends Me
         ];
     }
 
-    public function getDailyKnowledge()
+    public function getKnowledge()
     {
         return [
 	    html::class,
