@@ -28,7 +28,16 @@
 <hr>
 
 
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/mahmoudmiehob"><img alt="mahmoud's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahmoudmiehob&custom_title=mahmoudmiehob's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+----
+
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudmiehob" alt="mahmoud" /></a></p>
+
+----
 
 ```php
 <?php
@@ -44,15 +53,6 @@ getName("mahmoud miehob",22);
 
 
 ```
-
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/mahmoudmiehob"><img alt="mahmoud's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahmoudmiehob&custom_title=mahmoudmiehob's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
-<br/>
 
 
 ----
