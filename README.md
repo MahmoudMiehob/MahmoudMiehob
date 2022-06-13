@@ -179,7 +179,7 @@ class About extends Me
 
 
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px" height="30px"> Connect with me:
+## <a href="#"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px" height="30px"></a> Connect with me:
 
 <p>
   <a href="https://www.linkedin.com/in/mahmoud-miehob-937064187"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
