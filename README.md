@@ -92,7 +92,7 @@ class About extends Me
 ----
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="50px">&nbsp;  ***Github Stats ....***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="70px">&nbsp;  <h2>Github Stats ....</h2>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoudmiehob&theme=solarized_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmoudmiehob&theme=solarized_dark)
