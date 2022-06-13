@@ -40,14 +40,45 @@
 ----
 
 ```php
+
 <?php
 
-public function getName($name , $age)
-{
-echo "my name is " . $name . " and my age is " . $ago ;
-}
 
-getName("mahmoud miehob",22);
+class About extends Me
+{
+
+    public function getInfo($name , $age)
+    {
+	echo "my name is " . $name . " and my age is " . $ago ;
+    }
+    
+    
+    public function getCurrentWorkplace()
+    {
+        return [
+            'workplace' => [
+                'company' => 'freelancer',
+                'position' => 'Home'         
+            ]
+        ];
+    }
+
+    public function getDailyKnowledge()
+    {
+        return [
+	    html::class,
+            Php::class,
+            Javascript::class,
+            Laravel::class,
+            Bootstrap::class,
+        ];
+    }
+
+    public function getFutureGoal()
+    {
+        return 'To contribute to open source.';
+    }
+}
 
 ?>
 
