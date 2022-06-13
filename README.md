@@ -23,7 +23,7 @@
 <?php
 
 public function getName($name , $age) {
-echo "my name is" . $name ;
+echo "my name is " . $name . " and my age is " . $ago ;
 }
 
 getName("mahmoud miehob");
