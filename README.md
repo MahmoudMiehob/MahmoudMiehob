@@ -66,7 +66,8 @@ class About extends Me
     public function getKnowledge()
     {
         return [
-	    html::class,
+	    Html::class,
+	    Css::class,
             Php::class,
             Javascript::class,
             Laravel::class,
