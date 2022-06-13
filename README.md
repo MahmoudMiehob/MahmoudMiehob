@@ -8,15 +8,25 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=2500&lines=Software+Engineer;laravel+developer;fullstack+developer)](https://git.io/typing-svg)
 
-
 </br> 
-
 
 <a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-
-
 </br>
+
+-  I’m currently working on freelancer job
+-  I’m currently learning Everything related with software engineering ..
+-  All of my projects are available at https://github.com/MahmoudMiehob
+-  I regularly write articles on : https://www.facebook.com/profile.php?id=100010194910703
+-  Ask me about php,laravel framework and all about learning IT in albaath university 
+-  How to reach me: <br> &nbsp; &nbsp; * [Facebook-@mahmoudmiehob](https://www.facebook.com/profile.php?id=100010194910703) <br>
+                         &nbsp; &nbsp; * [Email-@mahmoudmiehob](mahmoudmiehob@gmail.com) <br>
+                         &nbsp; &nbsp; * [linkedIn-@mahmoudmiehob](https://www.linkedin.com/in/mahmoud-miehob-937064187)
+-  Know about my experiences : https://www.linkedin.com/in/mahmoud-miehob-937064187
+
+
+<hr>
+
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudmiehob" alt="mahmoud" /></a></p>
 
@@ -47,18 +57,7 @@ getName("mahmoud miehob",22);
 
 ----
 
--  I’m currently working on freelancer job
--  I’m currently learning Everything related with software engineering ..
--  All of my projects are available at https://github.com/MahmoudMiehob
--  I regularly write articles on : https://www.facebook.com/profile.php?id=100010194910703
--  Ask me about php,laravel framework and all about learning IT in albaath university 
--  How to reach me: <br> &nbsp; &nbsp; * [Facebook-@mahmoudmiehob](https://www.facebook.com/profile.php?id=100010194910703) <br>
-                         &nbsp; &nbsp; * [Email-@mahmoudmiehob](mahmoudmiehob@gmail.com) <br>
-                         &nbsp; &nbsp; * [linkedIn-@mahmoudmiehob](https://www.linkedin.com/in/mahmoud-miehob-937064187)
--  Know about my experiences : https://www.linkedin.com/in/mahmoud-miehob-937064187
 
-
-<hr>
   <h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="30px" height="30px"> Github Stats </h2>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoudmiehob&theme=solarized_dark)
