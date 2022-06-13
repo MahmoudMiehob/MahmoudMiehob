@@ -18,8 +18,7 @@
 
 </br>
 
-<img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500">
-
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudmiehob" alt="mahmoud" /></a></p>
 
 ```php
 <?php
