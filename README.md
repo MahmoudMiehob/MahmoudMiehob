@@ -26,7 +26,7 @@ public function getName($name , $age) {
 echo "my name is " . $name . " and my age is " . $ago ;
 }
 
-getName("mahmoud miehob");
+getName("mahmoud miehob",22);
 
 ?>
 
