@@ -22,7 +22,7 @@
 ```php
 <?php
 
-public function getName($name) {
+public function getName($name , $age) {
 echo "my name is" . $name ;
 }
 
