@@ -206,3 +206,5 @@ class About extends Me
 ## Just a Snake 🐍 Eating away my Contributions...😭
 ![snake gif](https://raw.githubusercontent.com/mahmoudmiehob/mahmoudmiehob/output/github-contribution-grid-snake.svg)
 
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
