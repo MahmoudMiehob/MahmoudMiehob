@@ -214,8 +214,9 @@ class About extends Me
 
 ## 📊 My Github Stats
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MahmoudMiehob&theme=algolia">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MahmoudMiehob&theme=algolia">
+</p>
 
 ## most Used languages
 
