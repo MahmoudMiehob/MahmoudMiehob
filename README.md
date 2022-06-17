@@ -199,6 +199,10 @@ class About extends Me
 
 [![mahmoud github stats](https://github-readme-stats.vercel.app/api?username=MahmoudMiehob&theme=algolia)](https://github.com/MahmoudMiehob/github-readme-stats)
 
+<p align='right'>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mahmoudmiehob&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+</p>
+
 ## ❤ Views and Followers
 
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudmiehob&label=Profile%20views&color=blueviolet&style=plastic" alt="views" /> </a>
