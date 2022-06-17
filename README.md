@@ -162,14 +162,6 @@ class About extends Me
       </a>
       <br>MySQL
     </td>
-
-     <td align="center" width="96">
-        <a href="#livewire">
-            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
-                alt="livewire" />
-        </a>
-        <br>Livewire
-    </td>
   </tr>
    <tr>
       <td align="center" width="96">
