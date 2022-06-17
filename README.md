@@ -217,7 +217,7 @@ class About extends Me
 [![mahmoud github stats](
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=MahmoudMiehob&theme=algolia"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=MahmoudMiehob&theme=algolia">
 
 
 
