@@ -210,7 +210,7 @@ class About extends Me
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudmiehob&label=Profile%20views&color=blueviolet&style=plastic" alt="views" /> </a>
 
 
-<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
+<h2 align='left'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <br>
 
 <p align='center'>
