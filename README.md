@@ -215,9 +215,11 @@ class About extends Me
 ## 📊 My Github Stats
 
 
-<img align="lift" src="https://github-readme-stats.vercel.app/api?username=MahmoudMiehob&theme=algolia">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MahmoudMiehob&theme=algolia">
 
-<p align='right'>
+## most Used languages
+
+<p align='center'>
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mahmoudmiehob&theme=algolia&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
 
