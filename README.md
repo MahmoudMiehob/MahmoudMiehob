@@ -196,8 +196,9 @@ class About extends Me
 
 
 ## 📊 My Github Stats
-
+<p align='left'>
 [![mahmoud github stats](https://github-readme-stats.vercel.app/api?username=MahmoudMiehob&theme=algolia)](https://github.com/MahmoudMiehob/github-readme-stats)
+</p>
 
 <p align='right'>
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mahmoudmiehob&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
