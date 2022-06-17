@@ -196,11 +196,12 @@ class About extends Me
 
 
 ## 📊 My Github Stats
-<a align='left'>
-[![mahmoud github stats](https://github-readme-stats.vercel.app/api?username=MahmoudMiehob&theme=algolia)](https://github.com/MahmoudMiehob/github-readme-stats)
-</a>
 
-<p align='right'>
+[![mahmoud github stats](https://github-readme-stats.vercel.app/api?username=MahmoudMiehob&theme=algolia)](https://github.com/MahmoudMiehob/github-readme-stats)
+
+## Most Used Languages 📚
+
+<p align='center'>
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mahmoudmiehob&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
 
