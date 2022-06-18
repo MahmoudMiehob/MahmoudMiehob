@@ -3,7 +3,6 @@
  👋 Hi, I'm mahmoud miehob!
 </h1>
  
-----
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=2500&lines=Software+Engineer;laravel+developer;fullstack+developer)](https://git.io/typing-svg)
@@ -230,6 +229,9 @@ class About extends Me
 ## ❤ Views and Followers
 
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudmiehob&label=Profile%20views&color=blueviolet&style=plastic" alt="views" /> </a>
+
+## Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{mahmoudmiehob}/count.svg)
 
 
 <h2 align='left'>Support Me By Starring ⭐ Some Of My Repositories</h2>
