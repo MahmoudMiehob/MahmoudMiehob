@@ -14,7 +14,7 @@
 
 </br>
 
-<hr style="color:red; background-color:blue;">
+<hr>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
@@ -29,7 +29,7 @@
 ✔  Know about my experiences : https://www.linkedin.com/in/mahmoud-miehob-937064187 <br>
 
 
-<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
+<hr>
 
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
