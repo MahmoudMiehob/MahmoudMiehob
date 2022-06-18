@@ -14,7 +14,7 @@
 
 </br>
 
-<hr style="height:2px;border-width:1;border-radius: 5px;color:blue;background-color:blue">
+<hr style="height:2px;border-width:1;border-radius:5px;color:red;background-color:red;">
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
