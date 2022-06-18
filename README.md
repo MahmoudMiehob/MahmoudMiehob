@@ -111,16 +111,6 @@ class About extends Me
 
 ----
 
-<p align="center">
-  <a>
-    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@mahmoudmiehob/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  </a>
-  <a>
-    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@mahmoudmiehob/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-  </a>
-</p>
-
-----
 
 <h3 align="left">Languages and Tools:</h3>
 
