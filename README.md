@@ -208,6 +208,9 @@ class About extends Me
 <img src="https://github-readme-stats.vercel.app/api?username=MahmoudMiehob&theme=algolia">
 </p>
 
+<img alt="mahmoud's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahmoudmiehob&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0D1117" />
+  <img alt="mahmoud's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudmiehob&langs_count=10&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117" />
+
 ## most Used languages
 
 <p align='center'>
