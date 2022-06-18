@@ -228,7 +228,7 @@ class About extends Me
 
 ## ❤ Views and Followers
 
-<a align="center"> <img src="https://komarev.com/ghpvc/?username=mahmoudmiehob&label=Profile%20views&color=blueviolet&style=plastic" width="24%" alt="views" /> </a>
+<a align="center"> <img src="https://komarev.com/ghpvc/?username=mahmoudmiehob&label=Profile%20views&color=blueviolet&style=plastic" width="20%" alt="views" /> </a>
 
 
 <h2 align='left'>Support Me By Starring ⭐ Some Of My Repositories</h2>
