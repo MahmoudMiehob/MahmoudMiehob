@@ -4,6 +4,10 @@
 </h1>
  
 
+<p align="center">
+<a href="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&lines=Software+Engineer;laravel+developer;fullstack+developer" > </a>
+</p>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=2500&lines=Software+Engineer;laravel+developer;fullstack+developer)](https://git.io/typing-svg)
 
@@ -12,7 +16,8 @@
 <a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 </br>
-<hr style="color:red; background-color:red; height:500px" />
+
+<hr>
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
