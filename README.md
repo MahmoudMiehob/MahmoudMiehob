@@ -241,7 +241,7 @@ class About extends Me
 
 <h2 align='left'>Thank You ❤</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="55%" height="50px">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="70px">
 </p>	
  
 <br>
