@@ -29,7 +29,7 @@
 ✔  Know about my experiences : https://www.linkedin.com/in/mahmoud-miehob-937064187 <br>
 
 
-<hr>
+<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
