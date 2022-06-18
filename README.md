@@ -117,7 +117,7 @@ class About extends Me
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left"> 💻 Languages and Tools:</h2>
 
 <table align="center">
   <tr>
