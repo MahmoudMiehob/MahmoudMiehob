@@ -206,9 +206,6 @@ class About extends Me
 
 <p align="left" style="margin-right:0px;padding-right:0px">
 <img src="https://github-readme-stats.vercel.app/api?username=MahmoudMiehob&theme=algolia">
-</p>
-
-<p align="right" style="margin-left:0px;padding-left:0px">
 <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudmiehob&theme=algolia" />
 </p>
 
