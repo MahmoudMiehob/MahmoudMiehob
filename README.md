@@ -23,6 +23,8 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
+>*
+>
 ✔  I’m currently working on freelancer job <br>
 ✔  I’m currently learning Everything related with software engineering .. <br>
 ✔  All of my projects are available at https://github.com/MahmoudMiehob <br>
@@ -32,7 +34,7 @@
                          &nbsp; &nbsp; * [Email-@mahmoudmiehob](mahmoudmiehob@gmail.com) <br>
                          &nbsp; &nbsp; * [linkedIn-@mahmoudmiehob](https://www.linkedin.com/in/mahmoud-miehob-937064187) <br>
 ✔  Know about my experiences : https://www.linkedin.com/in/mahmoud-miehob-937064187 <br>
-
+*
 
 <hr>
 
