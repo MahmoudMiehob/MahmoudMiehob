@@ -12,7 +12,7 @@
 <a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 </br>
-<hr style="color:red; background-color:red">
+<hr style="color:red; background-color:red; height:50px">
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
