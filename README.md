@@ -207,9 +207,9 @@ class About extends Me
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=MahmoudMiehob&theme=algolia">
 </p>
-
+<p align="right">
 <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudmiehob&theme=algolia" />
-
+</p>
 ## most Used languages
 
 <p align='center'>
