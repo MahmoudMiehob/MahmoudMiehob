@@ -240,7 +240,8 @@ class About extends Me
 <br>
 
 <h2 align='center'>Thank You ❤</h2>
-
+<h2>
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+	>/h2>
   
 <br>
