@@ -226,13 +226,7 @@ class About extends Me
 
 <p align='center'> <img src="https://komarev.com/ghpvc/?username=mahmoudmiehob&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 
-
-<h2 align='left'>Support Me By Starring ⭐ Some Of My Repositories</h2>
-<br>
-
-<p align='center'>
-<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
+</br>
 
 <h2 align='left'>Thank You ❤</h2>
 <p align="center">
