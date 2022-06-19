@@ -210,11 +210,6 @@ class About extends Me
 </p>
 
 
-## 💻 most Used languages
-
-<p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mahmoudmiehob&theme=algolia&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
-</p>
 
 
 ## <a href="#"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px" height="30px"></a> Connect with me:
