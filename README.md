@@ -125,6 +125,12 @@ class About extends Me
       <br>Javascript
     </td>
      <td align="center" width="96">
+      <a href="#php">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm4utLiLDakPKYEeqnaSMjOBpE9XdqIjZU2tY7eUKmIt6v4ThJIEXBEFVDgj9hbubhZtI&usqp=CAU" width="48" height="48" alt="php" />
+      </a>
+      <br>php
+    </td>
+     <td align="center" width="96">
       <a href="#vuejs">
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
       </a>
@@ -166,6 +172,18 @@ class About extends Me
       </a>
       <br>Git
     </td>
+      <td align="center" width="96">
+      <a href="#gitlab" >
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6r1V0sLeLyDpcH-5qCwzNmsUDwuhxmpO4Wg&s" width="48" height="48" alt="gitlab" />
+      </a>
+      <br>gitlab
+    </td>
+      <td align="center" width="96">
+      <a href="#bitbucket" >
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2AjPSv8J9Y0FPL7inda7RU36Du0bfuZISNg&s" width="48" height="48" alt="bitbucket" />
+      </a>
+      <br>bitbucket
+    </td>
       <td align="center"  width="96">
       <a href="#vscode">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
@@ -179,6 +197,20 @@ class About extends Me
       <br>Postman
     </td>
 
+  </tr>
+  <tr>
+	<td align="center" width="96">
+      <a href="#chatGpt" >
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s" width="48" height="48" alt="chatGpt" />
+      </a>
+      <br>chatGpt
+    </td> 
+	<td align="center" width="96">
+      <a href="#deepseek" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/DeepSeek_logo.svg/1024px-DeepSeek_logo.svg.png" width="48" height="48" alt="deepseek" />
+      </a>
+      <br>deepseek
+    </td> 
   </tr>
 </table>
 
