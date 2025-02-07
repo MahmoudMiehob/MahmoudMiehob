@@ -32,14 +32,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/mahmoudmiehob"><img alt="mahmoud's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahmoudmiehob&custom_title=mahmoudmiehob's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudmiehob" alt="mahmoud" /></a></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -53,31 +45,28 @@
 
 <?php
 
-
 class About extends Me
 {
-
-    public function getInfo($name , $age)
+    public function getInfo(string $name, int $age): string
     {
-	echo "my name is " . $name . " and my age is " . $ago ;
+        return sprintf("My name is %s and I am %d years old.", $name, $age);
     }
-    
-    
-    public function getCurrentWorkplace()
+
+    public function getCurrentWorkplace(): array
     {
         return [
             'workplace' => [
-                'company' => 'freelancer',
-                'position' => 'Home'         
+                'company' => 'Freelancer',
+                'position' => 'Home'
             ]
         ];
     }
 
-    public function getKnowledge()
+    public function getKnowledge(): array
     {
         return [
-	    Html::class,
-	    Css::class,
+            Html::class,
+            Css::class,
             Php::class,
             Javascript::class,
             Laravel::class,
@@ -85,14 +74,13 @@ class About extends Me
         ];
     }
 
-    public function getFutureGoal()
+    public function getFutureGoal(): string
     {
         return 'To contribute to open source.';
     }
 }
 
 ?>
-
 
 ```
 
