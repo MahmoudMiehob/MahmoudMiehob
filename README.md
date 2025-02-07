@@ -102,7 +102,7 @@ class About extends Me
   <tr>
       <td align="center" width="96">
       <a href="#html5">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/130px-HTML5_logo_and_wordmark.svg.png" width="48" height="48" alt="Html5" />
       </a>
       <br>Html5
     </td>
@@ -156,7 +156,7 @@ class About extends Me
    <tr>
       <td align="center" width="96">
       <a href="#ubuntu" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBEKNwby0l9dX5fW0krQcPlGrES_m0PBBVWT7yagQikMWoQnY45yXxdSe4wks7-DPGon8&usqp=CAU" width="48" height="48" alt="ubuntu" />
       </a>
       <br>Ubuntu
     </td>
